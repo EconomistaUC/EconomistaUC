@@ -28,16 +28,16 @@ Actualmente en 6.° semestre de **mi Licenciatura en Economía** en la UDC, con 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
 
-#### 🗄️ Bases de Datos
+#### Bases de Datos
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 📈 Análisis Económico y Cuantitativo
+#### Análisis Económico y Cuantitativo
 - **Econometría:** Series de Tiempo, Análisis de Regresión, **Modelos Predictivos (ARIMA)**.
 - **Limpieza de Datos / Data Wrangling:** Preparación y transformación de bases de datos para análisis económico.
 - **Teoría Económica:** Microeconomía, Macroeconomía, Comercio Internacional, Política Económica.
 - **Habilidades Cuantitativas:** Estadística, Visualización de Datos, Análisis de Datos, Análisis de Equilibrio.
 
-#### 🤝 Soft Skills & Idiomas
+#### Soft Skills & Idiomas
 - **Comunicación de datos:** Experiencia traduciendo análisis econométrico a informes ejecutivos para el Dr. Licona Michel
 - **Trabajo remoto:** Colaboración asíncrona en proyectos de investigación con equipos académicos
 - **Análisis crítico:** Evaluación de políticas económicas y estrategias de mercado
@@ -46,36 +46,36 @@ Actualmente en 6.° semestre de **mi Licenciatura en Economía** en la UDC, con 
 
   ------
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
-### 📦 Comercio Corea del Sur – México (2000–2024)
+### Comercio Corea del Sur – México (2000–2024)
 Investigación académica en curso. Análisis macroeconómico bilateral con enfoque en Asia-Pacífico, exportaciones, importaciones y política comercial. Colaboración con el Centro de Estudios de la Cuenca del Pacífico, UCOL.
 
-### ☕ Estrategia de mercado — Café Páramo
+### Estrategia de mercado — Café Páramo
 Determinación de precio óptimo, análisis del ciclo de vida del producto, diseño de canales de distribución y evaluación económica de estrategia publicitaria.
 
-### 🏪 Análisis corporativo — Fragua S.A.B. de C.V.
+### Análisis corporativo — Fragua S.A.B. de C.V.
 Fijación de precios, cuentas por cobrar/pagar, amortización de deudas, restricciones presupuestarias y canales de mercadotecnia.
 
-### 📊 Matriz BCG — Análisis de portafolio de productos
+### Matriz BCG — Análisis de portafolio de productos
 Evaluación del portafolio, decisiones de inversión y comparación de desempeño competitivo usando la metodología Boston Consulting Group.
 
-### 🌱 Perfil del consumidor agroecológico
+### Perfil del consumidor agroecológico
 Economía del comportamiento, excedente del consumidor, optimización con restricciones, funciones de producción y flujos de efectivo.
 
 ---
 
-## 🎓 Formación
+## Formación
 
 | | |
 |---|---|
-| 🎓 Licenciatura en Economía | Universidad de Colima · 2025–presente |
-| 💻 Técnico Analista Programador | Bachillerato 16, UCOL · 2019–2022 |
-| 📜 Google Data Analytics | Ask Questions · Prepare Data · Data Everywhere · 2024 |
+| Licenciatura en Economía | Universidad de Colima · 2025–presente |
+| Técnico Analista Programador | Bachillerato 16, UCOL · 2019–2022 |
+| Google Data Analytics | Ask Questions · Prepare Data · Data Everywhere · 2024 |
 
 ---
 
-## 📈 Lo que busco
+## Lo que busco
 
 Roles en **análisis de datos**, **business intelligence** o **investigación económica cuantitativa**, donde pueda combinar econometría, visualización de datos y pensamiento estratégico.
 
@@ -83,7 +83,7 @@ Disponibilidad **turno matutino**. Modalidad **remota** o presencial en **Colima
 
 ---
 
-## 📫 Encuéntrame aquí
+## Encuéntrame aquí
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urzuacardenas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raucuser@gmail.com)
