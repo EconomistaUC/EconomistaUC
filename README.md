@@ -1,6 +1,6 @@
 # Hola, soy Renata 
 
-Economista especializado en análisis para el razonamiento de datos. Me muevo entre la teoría económica y la práctica cuantitativa: desde series de tiempo hasta dashboards en Power BI. Los datos lo dicen todo y me gusta interpretarlos.
+Economista especializado en **análisis de datos, econometría y visualización** para la toma de decisiones. Me muevo entre la teoría económica y la práctica cuantitativa: desde **series de tiempo y modelos de regresión** hasta **dashboards en Power BI y limpieza de datos**. Los datos lo dicen todo y me gusta interpretarlos — y contarlo con **storytelling claro**.
 
 Actualmente en 6.° semestre de **mi Licenciatura en Economía** en la UDC, con base técnica como **Técnico Analista Programador** (2022).
 
@@ -8,38 +8,41 @@ Actualmente en 6.° semestre de **mi Licenciatura en Economía** en la UDC, con 
 
 ## En lo que estoy trabajando ahora
 
-Colaborando como investigadora con el **Dr. Ángel Licona Michel**, Director de la Cuenca del Pacífico, en un artículo sobre los **flujos comerciales entre Corea del Sur y México del año 2000 al 2024**.
+### Comercio Corea del Sur – México (2000–2024)
+*Investigación académica en curso bajo la dirección del **Dr. Ángel Licona Michel**, Director de la Cuenca del Pacífico.*
 
-El análisis incluye series de tiempo, balanza comercial bilateral, índices de ventaja comparativa revelada y tendencias de política comercial en el contexto Asia-Pacífico.
-
+**Lo que hice:**
+- Análisis de **24 años de datos bilaterales** (exportaciones/importaciones) procesando
+- Aplicación de **series de tiempo** para identificar tendencias estructurales y puntos de quiebre
+- Cálculo de **índices de ventaja comparativa revelada** por sector (manufactura, automotriz, electrónica)
+- Evaluación de **políticas comerciales** en el contexto Asia-Pacífico y su impacto en flujos bilaterales
 ---
 
-## Stack con el que trabajo
+### Business Intelligence & Visualización
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-#### 📊 Business Intelligence & Visualización
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Tablas Dinámicas](https://img.shields.io/badge/Tablas_Dinámicas-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white) <!-- Badge genérico de Excel -->
-![Gráficos Estadísticos](https://img.shields.io/badge/Gráficos_Estadísticos-FF6F00?style=for-the-badge&logo=ggplot2&logoColor=white) <!-- Badge genérico -->
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
 
 #### 🗄️ Bases de Datos
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📈 Análisis Económico y Cuantitativo
-- **Econometría:** Series de Tiempo, Análisis de Regresión, Pronósticos de Ventas.
+- **Econometría:** Series de Tiempo, Análisis de Regresión, **Modelos Predictivos (ARIMA)**.
+- **Limpieza de Datos / Data Wrangling:** Preparación y transformación de bases de datos para análisis económico.
 - **Teoría Económica:** Microeconomía, Macroeconomía, Comercio Internacional, Política Económica.
 - **Habilidades Cuantitativas:** Estadística, Visualización de Datos, Análisis de Datos, Análisis de Equilibrio.
 
 #### 🤝 Soft Skills & Idiomas
-- **Soft Skills:** Análisis Crítico, Redacción Técnica, Comunicación de Datos, Liderazgo, Trabajo Remoto.
-- **Idiomas:** Español (Nativo), Inglés (B1 - Intermedio).
+- **Comunicación de datos:** Experiencia traduciendo análisis econométrico a informes ejecutivos para el Dr. Licona Michel
+- **Trabajo remoto:** Colaboración asíncrona en proyectos de investigación con equipos académicos
+- **Análisis crítico:** Evaluación de políticas económicas y estrategias de mercado
+- **Pensamiento estructurado:** Enfoque en resolución de problemas basada en evidencia cuantitativa
+- **Idiomas:** Español (Nativo), Inglés B1 (lectura y comprensión de documentos técnicos/económicos)
 
   ------
 
@@ -76,7 +79,7 @@ Economía del comportamiento, excedente del consumidor, optimización con restri
 
 Roles en **análisis de datos**, **business intelligence** o **investigación económica cuantitativa**, donde pueda combinar econometría, visualización de datos y pensamiento estratégico.
 
-Disponibilidad **turno matutino**. Modalidad **remota** o presencial en **Colima · Manzanillo · Monterrey**.
+Disponibilidad **turno matutino**. Modalidad **remota** o presencial en **Colima**.
 
 ---
 
