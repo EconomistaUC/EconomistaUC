@@ -7,7 +7,7 @@ Actualmente en 6.° semestre de **mi Licenciatura en Economía** en la UDC, con 
 ---
 
 ## En lo que estoy trabajando ahora
-
+ [Ver proyectos en LinkedIn](https://www.linkedin.com/in/urzuacardenas)
 ### Comercio Corea del Sur – México (2000–2024)
 *Investigación académica en curso bajo la dirección del **Dr. Ángel Licona Michel**, Director de la Cuenca del Pacífico.*
 
