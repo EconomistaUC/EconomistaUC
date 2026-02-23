@@ -1,6 +1,6 @@
 # Hola, soy Renata 
 
-Economista especializado en **análisis de datos, econometría y visualización** para la toma de decisiones. Me muevo entre la teoría económica y la práctica cuantitativa: desde **series de tiempo y modelos de regresión** hasta **dashboards en Power BI y limpieza de datos**. Los datos lo dicen todo y me gusta interpretarlos — y contarlo con **storytelling claro**.
+Economista especializado en **análisis de datos, econometría y visualización** para la toma de decisiones. Me muevo entre la teoría económica y la práctica cuantitativa: desde **series de tiempo y modelos de regresión** hasta **dashboards en Power BI y limpieza de datos**. Los datos lo dicen todo y me gusta interpretarlos.
 
 Actualmente en 6.° semestre de **mi Licenciatura en Economía** en la UDC, con base técnica como **Técnico Analista Programador** (2022).
 
